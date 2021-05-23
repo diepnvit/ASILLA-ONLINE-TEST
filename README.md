@@ -1,3 +1,3 @@
 # ASILLA-ONLINE-TEST
-I will remove this repository after you verify it.
+I will delete this repository after you verify it to protect your Online Test.
 Thank you
